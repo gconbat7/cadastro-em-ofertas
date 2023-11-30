@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Poppins:ital,wght@0,400;0,700;1,500&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+header {
+    margin: 44px 0 144px 341px;
+}
+
+.menu{
+    font-weight: 600px;
+    font-size: 24px;
+    line-height: 29px;
+    color: #989D9C;
+    cursor: pointer;
+    margin-right: 23px;
+}
+
+.button-header{
+    background: #6FBF44;
+    color: #fff;
+    border-radius: 6px;
+    border: 1px solid #4CB538;
+    width: 124px;
+    height: 51px;
+    cursor: pointer;
+    font-weight: 500px;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 1px;
+}
+
+
+img {
+    width: 568px;
+    height: 500px;
+    margin: 50px 0 0 49px;
+    display: inline-block;
+}
+
+.lion33 {
+    position: absolute;
+    width: 161px;
+    height: 108px;
+    margin: 10px 0 0 -361px;
+    top: 9px;
+    cursor: pointer;
+}
+
+div{
+    position: absolute;
+    display: inline-block;
+    bottom: 100px;
+    margin: 25px 0 0 83px;
+    width: 493px;
+}
+
+h1{
+    font-weight: 700px;
+    font-size: 62px;
+    line-height: 82px;
+    letter-spacing: 0.596154px;
+    color: #161A49;
+}
+
+p{
+    font-weight: 400px;
+    font-size: 18px;
+    line-height: 33px;
+    letter-spacing: 0.5px;
+    color: #4B505A;
+    margin-top: 57px;
+    margin-bottom: 55px;
+}
+
+.btn-more {
+    font-weight: 500px;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 1px;
+    color: #5dc427;
+    cursor: pointer;
+}
+
